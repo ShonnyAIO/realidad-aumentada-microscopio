@@ -1,0 +1,11 @@
+Model Information:
+* title:	FMB_Microscope_01
+* source:	https://sketchfab.com/3d-models/fmb-microscope-01-b9645ae0f9f64dc6bd0ab19d8ad24085
+* author:	FreeMeshBase (https://sketchfab.com/FreeMeshBase)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FMB_Microscope_01" (https://sketchfab.com/3d-models/fmb-microscope-01-b9645ae0f9f64dc6bd0ab19d8ad24085) by FreeMeshBase (https://sketchfab.com/FreeMeshBase) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
